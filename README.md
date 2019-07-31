@@ -35,17 +35,17 @@
 
 # Databases
 - Relational
--- PostgreeSQL
--- MySql
+  -- PostgreeSQL
+  -- MySql
 - SearchEngine
--- Elastic Search
+  -- Elastic Search
 - Cloud
--- Azure CosmosDB
+  -- Azure CosmosDB
 
 # Caching
 - Caffeine
 - Distributed Cache
--- Java-Redis
+  -- Java-Redis
 
 # Log Frameworks
 - Log managment system (concepts)
@@ -57,13 +57,13 @@
 
 # API Clients
 - REST
---  okhttp
+  --  okhttp
 - GraphQL
 
 # Testing
 - Unit Testing
--- Mocking(mockito)
--- Framework(JUnit)
+  -- Mocking(mockito)
+  -- Framework(JUnit)
 
 # Good to know libs
 - gson
@@ -72,11 +72,11 @@
 
 # Microservices
 - Message-Broker
--- RabbitMQ
+  -- RabbitMQ
 - RPC
--- ProtocolBuffers
--- thrift
+  -- ProtocolBuffers
+  -- thrift
 - Frameworks
--- Apollo
--- nicronaut
+  -- Apollo
+  -- nicronaut
 
