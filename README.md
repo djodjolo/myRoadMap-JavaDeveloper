@@ -3,6 +3,7 @@
 ### Java core
 * Java CLI
 * Variables,Constants,Types,Function,Package, etc.(basics)
+* OOP concepts
 * Array,ArrayList,Map
 * Socket Programming & URL Processing
 * Interface(GUI)
