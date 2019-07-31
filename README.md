@@ -35,12 +35,12 @@
 
 # Databases
 - Relational
-  -- PostgreeSQL
-  -- MySql
+  - PostgreeSQL
+  - MySql
 - SearchEngine
-  -- Elastic Search
+  - Elastic Search
 - Cloud
-  -- Azure CosmosDB
+  - Azure CosmosDB
 
 # Caching
 - Caffeine
