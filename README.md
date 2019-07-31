@@ -57,7 +57,7 @@
 
 # API Clients
 - REST
--- okhttp
+--  okhttp
 - GraphQL
 
 # Testing
