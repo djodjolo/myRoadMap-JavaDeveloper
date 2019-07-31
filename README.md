@@ -1,6 +1,6 @@
 # myRoadMap-JavaDeveloper
-#Basic
-## Java core
+# Basic
+### Java core
 * Java CLI
 * Variables,Constants,Types,Function,Package, etc.(basics)
 * Array,ArrayList,Map
@@ -9,14 +9,14 @@
 * Thread,Routine
 * Exception handling
 
-## Dependency menagment tools
+### Dependency menagment tools
 - Gradle
 - Maven
 
-## SQL fundamentalas
+### SQL fundamentalas
 - Basic sql syntax
 
-## Gen.Dev Skills
+### Gen.Dev Skills
 - GIT
 - HTTP/HTTPS
 - Data structure and Algorithms
@@ -24,16 +24,16 @@
 - Basic Authentication OAuth, JWT
 - SOLID,YAGNI,KISS concepts
 
-## CLI
+### CLI
 - JCommander
 
-## Web frameworks + Routers
+### Web frameworks + Routers
 - Spring 
 
-## ORM-Object-relational mapping
+### ORM-Object-relational mapping
 - Hibernate
 
-## Databases
+### Databases
 - Relational
   - PostgreeSQL
   - MySql
@@ -42,35 +42,35 @@
 - Cloud
   - Azure CosmosDB
 
-## Caching
+### Caching
 - Caffeine
 - Distributed Cache
   - Java-Redis
 # Advance
-## Log Frameworks
+### Log Frameworks
 - Log managment system (concepts)
 - log4j
 
-## Real-Time Communication
+### Real-Time Communication
 - atmosphere
 - webbit
 
-## API Clients
+### API Clients
 - REST
   - okhttp
 - GraphQL
 
-## Testing
+### Testing
 - Unit Testing
   - Mocking(mockito)
   - Framework(JUnit)
 
-## Good to know libs
+### Good to know libs
 - gson
 - shiro
 - beanvalidation
 
-## Microservices
+### Microservices
 - Message-Broker
   - RabbitMQ
 - RPC
