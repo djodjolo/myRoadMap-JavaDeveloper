@@ -1,5 +1,5 @@
-# myRoadMap-JavaDeveloper
-# Basic
+# Basic 🔨
+
 ### Java core
 * Java CLI
 * Variables,Constants,Types,Function,Package, etc.(basics)
@@ -46,7 +46,9 @@
 - Caffeine
 - Distributed Cache
   - Java-Redis
-# Advance
+  
+# Advance🔃
+
 ### Log Frameworks
 - Log managment system (concepts)
 - log4j
