@@ -1,13 +1,13 @@
 # myRoadMap-JavaDeveloper
 
 #Java core
--Java CLI
--Variables,Constants,Types,Function,Package, etc.(basics)
--Array,ArrayList,Map
--Socket Programming & URL Processing
--Interface(GUI)
--Thread,Routine
--Exception handling
+*Java CLI
+*Variables,Constants,Types,Function,Package, etc.(basics)
+*Array,ArrayList,Map
+*Socket Programming & URL Processing
+*Interface(GUI)
+*Thread,Routine
+*Exception handling
 
 #Dependency menagment tools
 -Gradle
